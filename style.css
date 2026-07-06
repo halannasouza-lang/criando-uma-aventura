@@ -1,5 +1,9 @@
  body{
     background-color: #E6E6FA;
     color: black;
+    font-family:"Send Flowers", cursive;
+    display: flex;
+    justify-content: center;
+    
  }
  
