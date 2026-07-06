@@ -9,4 +9,8 @@
     margin: 0;
  }
 
- 
+ button{
+   background-color: #836FFF;
+   color: white;
+   font-family:"Send Flowers", cursive;
+ }
