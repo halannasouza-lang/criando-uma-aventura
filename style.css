@@ -14,3 +14,11 @@
    color: rgb(0, 0, 0);
    font-family: "Playpen Sans", cursive;
  }
+
+ .passo{
+     display: none;
+ }
+
+ .passo.ativo{
+    display: block;
+ }
