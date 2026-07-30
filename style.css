@@ -22,3 +22,7 @@
  .passo.ativo{
     display: block;
  }
+
+ main {
+    max-width: 50%;
+ }
